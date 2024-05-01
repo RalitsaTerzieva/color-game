@@ -1,6 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    font-size: 24px;
+    margin-right: 45px;
+    color: #00BFFF;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    text-shadow: 0px 0px 3px #800080;
+}
+
+.instructions {
+    font-size: 18px;
+    color: #00BFFF;
+    font-style: italic;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%; 
+}
+
+
 .boxesDiv {
     display: flex;
     flex-wrap: wrap;
-    max-width: 450px;
-    margin: auto;
+    max-width: 380px;
+    
 }

@@ -50,9 +50,14 @@ const generateBoxes = () => {
 };
 
 return (
+  <div className="container">
+    <h2 className="text">Color Boxes Game</h2>
+    <p className="instructions">Click any color box below to change its color and have fun!</p>
+
     <div className="boxesDiv">
         {generateBoxes()}
     </div>
+  </div>
 );
 }
 
