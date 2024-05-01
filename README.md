@@ -1,4 +1,4 @@
-# Color Game Application with React and Vite
+# Color Game Application
 
 This application is a fun and interactive Color Game designed specifically for those looking to learn and practice their skills with React and Vite. It's a quick, small, and sweet project that serves as an excellent introduction for beginners to the world of modern web development.
 
