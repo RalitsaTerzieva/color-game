@@ -19,4 +19,4 @@ function BoxGame({ color, text }) {
     );
   }
   
-  export default BoxColor;
+  export default BoxGame;
