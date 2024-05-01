@@ -1,5 +1,7 @@
 
 import { useState } from 'react';
+import './color.css';
+
 
 function BoxColor() {
   const initialColors = [
@@ -48,12 +50,7 @@ const generateBoxes = () => {
 };
 
 return (
-    <div style={{
-        display: 'flex',
-        flexWrap: 'wrap',
-        maxWidth: '450px',
-        margin: 'auto'
-    }}>
+    <div className="boxesDiv">
         {generateBoxes()}
     </div>
 );

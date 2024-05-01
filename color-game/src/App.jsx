@@ -1,5 +1,5 @@
-import BoxList from './components/BoxLIst/index';
 
+import BoxColor from './components/BoxColor';
 
 import './App.css'
 
@@ -7,7 +7,7 @@ function App() {
 
   return (
       <div>
-        <BoxList/>
+        <BoxColor/>
       </div>
     );
 }
