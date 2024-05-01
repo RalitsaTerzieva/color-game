@@ -10,7 +10,7 @@ To use this template:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/RalitsaTerzieva/color-game/edit/main/README.md
+   git clone https://github.com/RalitsaTerzieva/color-game/tree/main
    ```
    
 2. Install dependencies:
