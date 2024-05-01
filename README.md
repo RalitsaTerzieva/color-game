@@ -2,6 +2,8 @@
 
 This application is a fun and interactive Color Game designed for those looking to learn and practice their skills with React and Vite. 
 
+<img width="539" alt="Screenshot 2024-05-01 at 18 08 57" src="https://github.com/RalitsaTerzieva/color-game/assets/62655641/0bcc588f-9cce-44d5-8a3a-ff0dd88ca646">
+
 ## Getting Started
 
 To use this template:
