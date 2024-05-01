@@ -1,6 +1,4 @@
-import React from 'react';
-
-import BoxColor from './components/BoxGame/index';
+import BoxList from './components/BoxLIst/index';
 
 
 import './App.css'
@@ -9,7 +7,7 @@ function App() {
 
   return (
       <div>
-        <BoxGame/>
+        <BoxList/>
       </div>
     );
 }
